@@ -4,7 +4,7 @@ This is a solution to the [M2 - 💡Inspirational Quote Page](https://scrimba.co
 
 ## Screenshot
 
-![teste](images/screenshot.png)
+![](images/screenshot.png)
 
 ## Links
 

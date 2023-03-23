@@ -1,0 +1,50 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Inter", sans-serif;
+}
+
+main {
+  max-width: 720px;
+  min-height: 480px;
+  width: 90%;
+  margin: 0 auto;
+  background: url("images/nature.jpg");
+}
+
+.flex {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.quote-link {
+  text-decoration: none;
+  color: #000;
+}
+.quote-box {
+  background: #fff;
+  padding: 1em 1.5em;
+  max-width: 436px;
+}
+
+.quote-box:hover {
+  background-color: #769013;
+}
+
+.quote-desc {
+  font-size: 1.25rem;
+  font-weight: 400;
+}
+
+.quote-author {
+  font-size: 1.125rem;
+  font-weight: 600;
+  text-align: right;
+}

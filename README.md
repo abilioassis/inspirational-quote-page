@@ -9,6 +9,7 @@ This is a solution to the [M2 - 💡Inspirational Quote Page](https://scrimba.co
 ## Links
 
 - Live Site URL: [Netlify](https://magnificent-kitsune-7aa19c.netlify.app/)
+- Codebase: [Github](https://github.com/abilioassis/inspirational-quote-page)
 
 ## Built with
 

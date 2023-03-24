@@ -10,11 +10,10 @@ body {
 }
 
 main {
-  max-width: 720px;
-  min-height: 480px;
-  width: 90%;
-  margin: 0 auto;
+  height: 100vh;
+  padding: 1em 0;
   background: url("images/nature.jpg");
+  background-size: cover;
 }
 
 .flex {

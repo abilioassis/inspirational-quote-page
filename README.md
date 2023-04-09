@@ -10,6 +10,7 @@ This is a solution to the [M2 - 💡Inspirational Quote Page](https://scrimba.co
 
 - Live Site URL: [Netlify](https://magnificent-kitsune-7aa19c.netlify.app/)
 - Codebase: [Github](https://github.com/abilioassis/inspirational-quote-page)
+- Code review: [Scrimba](https://scrimba.com/scrim/co31a43ca8ec1c2121f8e4236)
 
 ## Built with
 
